@@ -12,15 +12,16 @@ namespace ODBC_Info
         static void Main(string[] args)
         {
             Program p = new Program();
-            p.ShowDrivers();
+            p.ShowDrivers("mdb");
             Console.Read();
         }
-        private void ShowDrivers()
+        private void ShowDrivers(string find)
         {
             var drivers = _gi.GetSystemDriverList();
-            foreach (var a in drivers)
+            foreach (string a in drivers)
             {
-                Console.WriteLine(a);
+                if(a.Contains(find))
+                    Console.WriteLine(a);
             }
         }
     }
