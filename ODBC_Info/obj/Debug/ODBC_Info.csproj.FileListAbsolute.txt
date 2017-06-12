@@ -1,0 +1,8 @@
+c:\users\alverer\documents\visual studio 2013\Projects\ODBC_Info\ODBC_Info\bin\Debug\ODBC_Info.exe.config
+c:\users\alverer\documents\visual studio 2013\Projects\ODBC_Info\ODBC_Info\bin\Debug\ODBC_Info.exe
+c:\users\alverer\documents\visual studio 2013\Projects\ODBC_Info\ODBC_Info\bin\Debug\ODBC_Info.pdb
+c:\users\alverer\documents\visual studio 2013\Projects\ODBC_Info\ODBC_Info\obj\Debug\ODBC_Info.csprojResolveAssemblyReference.cache
+c:\users\alverer\documents\visual studio 2013\Projects\ODBC_Info\ODBC_Info\obj\Debug\ODBC_Info.exe
+c:\users\alverer\documents\visual studio 2013\Projects\ODBC_Info\ODBC_Info\obj\Debug\ODBC_Info.pdb
+c:\users\alverer\documents\visual studio 2013\Projects\ODBC_Info\ODBC_Info\bin\Debug\ODBCInfoGetterPluggin.dll
+c:\users\alverer\documents\visual studio 2013\Projects\ODBC_Info\ODBC_Info\bin\Debug\ODBCInfoGetterPluggin.pdb

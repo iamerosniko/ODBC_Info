@@ -1,0 +1,5 @@
+c:\users\alverer\documents\visual studio 2013\Projects\ODBC_Info\ODBCInfoGetterPluggin\bin\Debug\ODBCInfoGetterPluggin.dll
+c:\users\alverer\documents\visual studio 2013\Projects\ODBC_Info\ODBCInfoGetterPluggin\bin\Debug\ODBCInfoGetterPluggin.pdb
+c:\users\alverer\documents\visual studio 2013\Projects\ODBC_Info\ODBCInfoGetterPluggin\obj\Debug\ODBCInfoGetterPluggin.csprojResolveAssemblyReference.cache
+c:\users\alverer\documents\visual studio 2013\Projects\ODBC_Info\ODBCInfoGetterPluggin\obj\Debug\ODBCInfoGetterPluggin.dll
+c:\users\alverer\documents\visual studio 2013\Projects\ODBC_Info\ODBCInfoGetterPluggin\obj\Debug\ODBCInfoGetterPluggin.pdb
