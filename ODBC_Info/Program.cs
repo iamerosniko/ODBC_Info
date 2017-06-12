@@ -12,7 +12,7 @@ namespace ODBC_Info
         static void Main(string[] args)
         {
             Program p = new Program();
-            p.ShowDrivers("mdb");
+            p.ShowDrivers("xlsx");
             Console.Read();
         }
         private void ShowDrivers(string find)
