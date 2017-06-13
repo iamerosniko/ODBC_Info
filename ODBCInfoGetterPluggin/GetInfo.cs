@@ -18,6 +18,7 @@ namespace ODBCInfoGetterPluggin
                 reg = reg.OpenSubKey("ODBC");
                 if (reg != null)
                 {
+                    //reg = reg.OpenSubKey("ODBCINST.INI");
                     reg = reg.OpenSubKey("ODBCINST.INI");
                     if (reg != null)
                     {
